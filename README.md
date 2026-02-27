@@ -57,15 +57,15 @@ I apply enterprise‑grade rigor to everything I build: clean architecture, modu
 ---
 ## 📈 GitHub Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akileshthuniki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="200" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akileshthuniki&layout=compact&theme=tokyonight&hide_border=true" height="250" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akileshthuniki&theme=tokyonight&hide_border=true" width="85%" alt="GitHub Streak" />
-</p>>
+| | |
+| :---: | :---: |
+| <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akileshthuniki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&count_private=true" height="195" /> | <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akileshthuniki&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" height="195" /> |
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akileshthuniki&theme=tokyonight&hide_border=true&background=000000" width="100%" alt="GitHub Streak" />
+
+</div>
 ---
 
 ### 📫 Let's Connect
