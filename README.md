@@ -58,8 +58,14 @@ I apply enterprise‑grade rigor to everything I build: clean architecture, modu
 
 ### 📈 GitHub Metrics
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=akileshthuniki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akileshthuniki&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> </p>
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akileshthuniki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akileshthuniki&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akileshthuniki&theme=tokyonight&hide_border=true" width="94%" alt="GitHub Streak" />
+</p>
 
 ---
 ---
