@@ -12,10 +12,15 @@ I apply enterprise‑grade rigor to everything I build: clean architecture, modu
 
 | Category | Tools |
 | :--- | :--- |
-| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white) ![ECS](https://img.shields.io/badge/ECS-orange?style=flat&logo=amazon-ecs&logoColor=white) ![EKS](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) |
-| **IaC / DevOps** | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=flat&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white) ![ECS](https://img.shields.io/badge/ECS-orange?style=flat&logo=amazon-ecs&logoColor=white) ![EKS](https://img.shields.io/badge/EKS-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) |
+
+| **Containers & Orchestration** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) |
+
+| **IaC / DevOps** | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=flat&logo=githubactions&logoColor=white) |
+
 | **Development** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) |
-| **AI Infra** | ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat&logo=ollama&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-Inference-31b404?style=flat&logo=openai&logoColor=white) |
+
+| **AI Infrastructure** | ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat&logo=ollama&logoColor=white) ![LLM](https://img.shields.io/badge/Local%20LLM%20Inference-green) |
 
 ---
 
