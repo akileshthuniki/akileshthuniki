@@ -21,35 +21,33 @@ I apply enterprise‑grade rigor to everything I build: clean architecture, modu
 
 ### 🚀 Featured Projects
 
-### [PreApply](https://github.com/akileshthuniki/PreApply) — Terraform Risk Scoring + Local AI Advisor
-A deterministic engine that analyzes Terraform plans, computes blast radius, and generates AI‑assisted explanations using local models.
+### 🛠️ [PreApply](https://github.com/akileshthuniki/PreApply) 
+**Terraform Risk Scoring + Local AI Advisor**
+> A deterministic engine that analyzes Terraform plans, computes blast radius, and generates AI-assisted explanations using local models.
 
-- *Python package published to PyPI*
-- *Deterministic scoring (no external API calls)*
-- *Local AI inference (Ollama)*
+- 📦 **PyPI:** [View Package](https://pypi.org/project/preapply/)
+- 🤖 **Core Tech:** Terraform, AWS, Python, Ollama
+- ✨ **Key Feature:** Deterministic scoring with zero external API calls.
 
-Modular architecture + clean CLI
-**Repo:** (https://github.com/akileshthuniki/PreApply)
 **PyPI:** [https://pypi.org/project/preapply/]
 
-### [SaaSInfraLab]((https://github.com/SaaSInfraLab/) - Open-Source SaaS Infrastructure for AWS EKS**
-A modular, end‑to‑end learning and experimentation environment for building real‑world SaaS infrastructure. It focuses on production‑grade patterns such as multi‑tenant architecture, secure deployments, CI/CD automation, and cloud‑native design.
+---
+### 🏗️ [SaaSInfraLab](https://github.com/SaaSInfraLab/) 
+**Open-Source SaaS Infrastructure for AWS EKS**
+> A modular, end‑to‑end learning and experimentation environment for building real‑world SaaS infrastructure. It focuses on production‑grade patterns such as multi‑tenant architecture, secure deployments, CI/CD automation, and cloud‑native design.
 
-- *Infrastructure blueprints for SaaS applications*
-- *Multi‑tenant patterns and environment isolation*
-- *CI/CD pipelines and DevOps workflows*
-- *Cloud‑ready architecture for scalable SaaS products*
+- ☁️ **Cloud:** AWS EKS, VPC Design, IAM
+- 🔐 **Patterns:** Tenant Isolation & Environment Segregation
+- 🔄 **Automation:** Helm Charts & GitHub Actions
 
-**Repo:** https://github.com/SaaSInfraLab
-  
-### [Ollama Infra CLI](https://github.com/akileshthuniki/ollama-infra-cli) — Local AI for Infra Engineers**
-A Python CLI that integrates local LLMs into DevOps workflows.
+---
 
-*Fast, offline inference*
-*Infra‑focused prompts*
-*Developer‑friendly CLI design*
+### 🤖 [Ollama Infra CLI](https://github.com/akileshthuniki/ollama-infra-cli) 
+**Local AI for Infra Engineers**
+> A Python CLI that integrates local LLMs directly into DevOps workflows for offline inference.
 
-**Repo:** https://github.com/akileshthuniki/ollama-infra-cli
+- 🚀 **Fast:** Offline inference for security-conscious environments
+- 🛠️ **Dev-Focused:** Custom prompts tailored for Infrastructure as Code https://github.com/akileshthuniki/ollama-infra-cli
 
 ---
 
