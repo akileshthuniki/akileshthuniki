@@ -1,6 +1,6 @@
 # Hi there, I'm Akilesh! 👋
 
-** Senior Cloud & DevOps Engineer | Aspiring Platform Architect**
+**Senior Cloud & DevOps Engineer | Aspiring Platform Architect**
 
 I design and build scalable cloud infrastructure, deterministic automation, and developer‑first tooling across AWS, Terraform, Python, and modern CI/CD. My work focuses on predictability, compliance, and reproducibility — from infrastructure pipelines to AI‑assisted developer workflows.
 
