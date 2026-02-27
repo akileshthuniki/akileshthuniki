@@ -55,19 +55,18 @@ I apply enterprise‑grade rigor to everything I build: clean architecture, modu
 <img src="https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-orange?logo=amazon-aws&logoColor=white" alt="AWS Developer Associate" height="28">
 
 ---
+## 📈 GitHub Metrics
 
-### 📈 GitHub Metrics
+| My Stats | Most Used Languages |
+| :---: | :---: |
+| <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akileshthuniki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" /> | <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akileshthuniki&layout=compact&theme=tokyonight&hide_border=true" width="350" /> |
 
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akileshthuniki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akileshthuniki&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
+<br />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akileshthuniki&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akileshthuniki&theme=tokyonight&hide_border=true" width="94%" alt="GitHub Streak" />
-</p>
-
----
 ---
 
 ### 📫 Let's Connect
