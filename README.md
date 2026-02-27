@@ -29,8 +29,6 @@ I apply enterprise‑grade rigor to everything I build: clean architecture, modu
 - 🤖 **Core Tech:** Terraform, AWS, Python, Ollama
 - ✨ **Key Feature:** Deterministic scoring with zero external API calls.
 
-**PyPI:** [https://pypi.org/project/preapply/]
-
 ---
 ### 🏗️ [SaaSInfraLab](https://github.com/SaaSInfraLab/) 
 **Open-Source SaaS Infrastructure for AWS EKS**
