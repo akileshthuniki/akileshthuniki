@@ -58,17 +58,18 @@ I apply enterprise‑grade rigor to everything I build: clean architecture, modu
 
 ## 📈 GitHub Metrics
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akileshthuniki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&count_private=true" height="180" />
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akileshthuniki&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" height="180" />
-
-</div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akileshthuniki&theme=tokyonight&hide_border=true&background=000000" width="95%" />
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akileshthuniki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&count_private=true" width="48%" />
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akileshthuniki&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" width="48%" />
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akileshthuniki&theme=tokyonight&hide_border=true&background=000000" width="98%" />
+
 </div>
+
 
 ---
 
