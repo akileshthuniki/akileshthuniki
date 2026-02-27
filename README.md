@@ -57,15 +57,14 @@ I apply enterprise‑grade rigor to everything I build: clean architecture, modu
 ---
 ## 📈 GitHub Metrics
 
-| My Stats | Most Used Languages |
-| :---: | :---: |
-| <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akileshthuniki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" /> | <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akileshthuniki&layout=compact&theme=tokyonight&hide_border=true" width="350" /> |
-
-<br />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akileshthuniki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="195" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akileshthuniki&layout=compact&theme=tokyonight&hide_border=true" height="195" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akileshthuniki&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akileshthuniki&theme=tokyonight&hide_border=true" width="90%" alt="GitHub Streak" />
+</p>>
 
 ---
 
