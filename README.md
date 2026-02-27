@@ -52,7 +52,7 @@ I apply enterprise‑grade rigor to everything I build: clean architecture, modu
 ---
 
 ### 📜 Certifications
-<img src="https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-orange?logo=amazon-aws&logoColor=white" alt="AWS Developer Associate" height="28">
+<img src="https://img.shields.io/badge/AWS-Certified_Developer_Associate-orange?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Developer Associate" height="30">
 
 ---
 ## 📈 GitHub Metrics
