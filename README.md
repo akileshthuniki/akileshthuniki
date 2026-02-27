@@ -10,12 +10,12 @@ I apply enterprise‑grade rigor to everything I build: clean architecture, modu
 
 ### 🛠️ Tech Stack & Tools
 
-- **Cloud & Infrastructure:** AWS, Terraform, VPC design, IAM, ECS, Lambda, S3, CloudFront
-- **DevOps & Automation:** GitHub Actions, CI/CD pipelines, IaC automation, containerization
-- **Python Engineering:** CLI tools, packaging, PyPI publishing, API design
-- **AI & Developer Tools:** Local AI (Ollama), LLM‑assisted workflows, risk scoring engines
-- **Frontend & Full‑Stack:** TypeScript, React, Next.js, Tailwind
-- **Databases:** PostgreSQL, Prisma, SQLite
+| Category | Tools |
+| :--- | :--- |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white) ![ECS](https://img.shields.io/badge/ECS-orange?style=flat&logo=amazon-ecs&logoColor=white) ![EKS](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) |
+| **IaC / DevOps** | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=flat&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) |
+| **Development** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) |
+| **AI Infra** | ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat&logo=ollama&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-Inference-31b404?style=flat&logo=openai&logoColor=white) |
 
 ---
 
@@ -25,6 +25,7 @@ I apply enterprise‑grade rigor to everything I build: clean architecture, modu
 **Terraform Risk Scoring + Local AI Advisor**
 > A deterministic engine that analyzes Terraform plans, computes blast radius, and generates AI-assisted explanations using local models.
 
+- 🚀 **Impact:** Reduces infrastructure change anxiety by providing human-readable risk scores.
 - 📦 **PyPI:** [View Package](https://pypi.org/project/preapply/)
 - 🤖 **Core Tech:** Terraform, AWS, Python, Ollama
 - ✨ **Key Feature:** Deterministic scoring with zero external API calls.
@@ -52,6 +53,15 @@ I apply enterprise‑grade rigor to everything I build: clean architecture, modu
 ### 📜 Certifications
 <img src="https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-orange?logo=amazon-aws&logoColor=white" alt="AWS Developer Associate" height="28">
 
+---
+
+### 📈 GitHub Metrics
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=akileshthuniki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akileshthuniki&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
 ---
 
 ### 📫 Let's Connect
