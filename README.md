@@ -63,7 +63,7 @@ I apply enterprise‑grade rigor to everything I build: clean architecture, modu
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akileshthuniki&theme=tokyonight&hide_border=true" width="90%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akileshthuniki&theme=tokyonight&hide_border=true" height="250"width="80%" alt="GitHub Streak" />
 </p>>
 
 ---
