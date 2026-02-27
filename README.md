@@ -1,6 +1,6 @@
 # Hi there, I'm Akilesh! 👋
 
-**Senior Cloud & DevOps Engineer | Aspiring Platform Architect**
+### Senior Cloud & DevOps Engineer | Aspiring Platform Architect
 
 I design and build scalable cloud infrastructure, deterministic automation, and developer‑first tooling across AWS, Terraform, Python, and modern CI/CD. My work focuses on predictability, compliance, and reproducibility — from infrastructure pipelines to AI‑assisted developer workflows.
 
@@ -47,7 +47,7 @@ I apply enterprise‑grade rigor to everything I build: clean architecture, modu
 > A Python CLI that integrates local LLMs directly into DevOps workflows for offline inference.
 
 - 🚀 **Fast:** Offline inference for security-conscious environments
-- 🛠️ **Dev-Focused:** Custom prompts tailored for Infrastructure as Code https://github.com/akileshthuniki/ollama-infra-cli
+- 🛠️ **Dev-Focused:** Custom prompts tailored for Infrastructure as Code.
 
 ---
 
